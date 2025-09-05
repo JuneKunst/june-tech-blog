@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ko-KR",
-    baseUrl: "tech-blog.june.dev",
+    baseUrl: "junekunst.github.io/june-tech-blog",
     ignorePatterns: ["private", "templates", ".obsidian", "900-MOC"],
     defaultDateType: "modified",
     theme: {
