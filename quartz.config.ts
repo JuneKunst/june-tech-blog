@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "ko-KR",
     baseUrl: "junekunst.github.io/june-tech-blog",
-    ignorePatterns: ["private", "templates", ".obsidian", "900-MOC"],
+    ignorePatterns: ["private", "templates", ".obsidian", "900-MOC", "000-Templates"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
