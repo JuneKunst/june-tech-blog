@@ -1,18 +1,31 @@
-# Quartz v4
+# June Tech Blog
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This repository contains my personal technical blog where I document frontend development concepts, real-world experiences, and technical learnings.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## About
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+As a frontend engineer, I believe writing and organizing technical knowledge is an important part of improving engineering skills and sharing insights.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+This blog focuses on topics such as:
 
-## Sponsors
+- React and frontend architecture
+- TypeScript and modern JavaScript
+- Web performance and UI development
+- Real-world development experiences
+- AI-assisted development workflows
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Some parts of the content were organized and refined using AI tools to improve clarity and structure, while the ideas and technical context come from my own development experience.
+
+## Background
+
+I currently work on **Charan**, a second-hand fashion marketplace developed at **MineIs**, where I help build and operate production frontend systems.
+
+Through this blog I document technical problems, solutions, and architectural decisions encountered while building real-world products.
+
+## Blog
+
+https://june-dev.tistory.com
+
+## Portfolio
+
+https://junekunst.github.io
